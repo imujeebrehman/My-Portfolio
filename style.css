@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color : gold;
+}
+h2{
+    color : blue;
+}
+.intro{
+    color : green;
+}
+#myname{
+    color : white;
+}
+header{
+    margin : 20px;
+    padding : 20x;
+    border : 3px solid white;
+
+}
