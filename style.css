@@ -1,6 +1,6 @@
 body{
-    background-color: black;
-    color : gold;
+    font-family: 'poppins' , sans-serif ;
+    background-color: #f9fcde;
 }
 h2{
     color : blue;
@@ -13,7 +13,42 @@ h2{
 }
 header{
     margin : 20px;
-    padding : 20x;
+    padding : 20px;
     border : 3px solid white;
 
+}
+.flex-container{
+    display : flex;
+    justify-content: center;
+    gap : 20px;
+    padding : 20px;
+}
+.card{
+    background-color: #333;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 150px;
+  text-align: center;
+
+}
+.Highlight{
+    color :rgb(0, 255, 13);
+}
+#special{
+    color : pink;
+}
+.btn{
+    background : blue;
+    color : rgb(64, 222, 227);
+}
+h1{
+     size: 40px;
+     text-align: center;
+     font-weight: bold;
+     color : #ff7f36;
+}
+p{
+    size : 16px;
+    line-height: 1.6;
 }
